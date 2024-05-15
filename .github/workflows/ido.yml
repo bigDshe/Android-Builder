@@ -1,4 +1,4 @@
-name: Redmi3 Kernels GCC4.9
+name: Redmi3 Kernel GCC4.9
 
 on:
   workflow_dispatch:
