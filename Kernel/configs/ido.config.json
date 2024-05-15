@@ -39,6 +39,6 @@
       "release": true
     },
     "enableKernelSU": false,
-    "enableLXC": false
+    "enableLXC": true
   }
 ]
